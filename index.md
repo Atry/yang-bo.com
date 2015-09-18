@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Yang Bo
 tagline: Supporting tagline
 ---
