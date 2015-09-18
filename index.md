@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Yang Bo
+tagline: Supporting tagline
 ---
 
 ## Open-source Projects created by me
