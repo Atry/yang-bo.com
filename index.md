@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yang Bo
-tagline: Supporting tagline
+tagline: Lead Consultant, ThoughtWorks
 ---
 
 ## Open-source Projects created by me
