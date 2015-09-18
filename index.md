@@ -1,3 +1,8 @@
+---
+layout: post
+title: Yang Bo
+---
+
 ## Open-source Projects created by me
  * Written in Scala
    * [Stateless Future](https://github.com/qifun/stateless-future)
