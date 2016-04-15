@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yang Bo
+title: Yang Bo's open-source projects
 tagline: Lead Consultant, ThoughtWorks
 group: navigation
 ---
