@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home Page
+title: Yang Bo
 tagline: Lead Consultant, ThoughtWorks
 group: navigation
 ---
