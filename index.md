@@ -5,7 +5,7 @@ tagline: Lead Consultant, ThoughtWorks
 group: navigation
 ---
 
-## Open-source Projects created by me
+## Open-source projects created by me
  * Written in Scala
    * [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala)
    * [Stateless Future](https://github.com/qifun/stateless-future)
