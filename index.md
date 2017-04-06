@@ -7,16 +7,20 @@ group: navigation
 
 ## Open-source projects created by me
  * Written in Scala
+   * [DeepLearning.scala](https://github.com/ThoughtWorksInc/DeepLearning.scala)
    * [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala)
    * [Stateless Future](https://github.com/qifun/stateless-future)
    * [sbt-haxe](https://github.com/qifun/sbt-haxe)
-   * [Each](https://github.com/ThoughtWorksInc/each)
+   * [ThoughtWorks Each](https://github.com/ThoughtWorksInc/each)
    * [Memcontinuationed](https://github.com/Atry/memcontinuationed)
    * [Fastring](https://github.com/Atry/fastring)
    * [sbt-api-mappings](https://github.com/ThoughtWorksInc/sbt-api-mappings)
    * [sbt-cppp](https://github.com/Atry/sbt-cppp)
    * [enableIf.scala](https://github.com/ThoughtWorksInc/enableIf.scala)
+   * [template.scala](https://github.com/ThoughtWorksInc/template.scala)
+   * [Extractor.scala](https://github.com/ThoughtWorksInc/Extractor.scala)
    * [sbt-scala-js-map](https://github.com/ThoughtWorksInc/sbt-scala-js-map)
+   * [implicit-dependent-type](https://github.com/ThoughtWorksInc/implicit-dependent-type)
  * Written in Haxe
    * [Auto Parser](https://github.com/Atry/auto-parser)
    * [Haxe Continuation](https://github.com/Atry/haxe-continuation)
