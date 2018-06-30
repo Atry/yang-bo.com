@@ -9,6 +9,7 @@ group: navigation
  * Written in Scala
    * [DeepLearning.scala](https://github.com/ThoughtWorksInc/DeepLearning.scala)
    * [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala)
+   * [Dsl.scala](https://github.com/ThoughtWorksInc/Dsl.scala)
    * [Stateless Future](https://github.com/qifun/stateless-future)
    * [sbt-haxe](https://github.com/qifun/sbt-haxe)
    * [ThoughtWorks Each](https://github.com/ThoughtWorksInc/each)
