@@ -27,6 +27,8 @@ group: navigation
    * [Haxe Continuation](https://github.com/Atry/haxe-continuation)
    * [Json Stream](https://github.com/Atry/json-stream)
    * [protoc-gen-haxe](https://github.com/Atry/protoc-gen-haxe)
+ * Written in Haskell
+   * [Control.Dsl](https://github.com/Atry/Control.Dsl)
  * Written in ActionScript 3
    * [protoc-gen-as3](https://github.com/Atry/protoc-gen-as3)
  * Written in various languages
