@@ -9,7 +9,10 @@ group: navigation
  * Written in Scala
    * [DeepLearning.scala](https://github.com/ThoughtWorksInc/DeepLearning.scala)
    * [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala)
-   * [Dsl.scala](https://github.com/ThoughtWorksInc/Dsl.scala)
+   * [Dsl.scala](https://github.com/ThoughtWorksInc/Dsl.scala) and its related projects:
+     * [dsl-domains-cats](https://github.com/ThoughtWorksInc/dsl-domains-cats)
+     * [Dsl.scala-akka-http](https://github.com/ThoughtWorksInc/Dsl.scala-akka-http)
+     * [Dsl.scala-akka-actor](https://github.com/Atry/Dsl.scala-akka-actor)
    * [Stateless Future](https://github.com/qifun/stateless-future)
    * [sbt-haxe](https://github.com/qifun/sbt-haxe)
    * [ThoughtWorks Each](https://github.com/ThoughtWorksInc/each)
