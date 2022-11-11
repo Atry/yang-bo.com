@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Yang Bo
-tagline: Lead Consultant, ThoughtWorks
+title: My open-source project
 group: navigation
 ---
 
