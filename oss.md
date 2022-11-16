@@ -1,10 +1,9 @@
 ---
 layout: page
-title: My open-source project
+title: Open-source projects created by me
 group: navigation
 ---
 
-## Open-source projects created by me
  * Written in Scala
    * [DeepLearning.scala](https://github.com/ThoughtWorksInc/DeepLearning.scala)
    * [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala)
